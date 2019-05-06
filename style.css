@@ -1,0 +1,55 @@
+div{
+  border-style: solid;
+}
+
+#mytravels {
+  text-align: center;
+  min-height: 100px;
+  width: 100%;
+  background-color: #ffe6ee;
+
+}
+
+#France{
+  text-align: left;
+  min-height: 300px;
+  width: 100%;
+  background-color:  #ff9999;
+  margin: 10px 10px 10px 10px;
+  
+}
+
+#Singapore{
+  min-height: 300px;
+  width: 100%;
+  background-color: #80bfff;
+  margin: 10px 10px 10px 10px;
+}
+
+#CostaRica{
+  min-height: 300px;
+  width: 100%;
+  background-color: #00cc00;
+  margin: 10px 10px 10px 10px;
+}
+
+#Thailand{
+  min-height: 300px;
+  width: 100%;
+  background-color: #ffff4d;
+  margin: 10px 10px 10px 10px;
+}
+
+#Japan{
+  min-height: 300px;
+  width: 100%;
+  background-color:  #ffb3e6;
+  margin: 10px 10px 10px 10px;
+}
+
+img{
+  margin: 5px;
+  display: inline-flex;
+  height: 300px;
+  width: auto;
+}
